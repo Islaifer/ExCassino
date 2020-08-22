@@ -25,6 +25,7 @@ public class Main extends JFrame {
 	/**
 	 * ttt
 	 * ttt
+	 * ttt
 	 */
 	private static final long serialVersionUID = 1L;
 	private JPanel contentPane;
